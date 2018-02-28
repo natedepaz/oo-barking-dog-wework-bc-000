@@ -9,3 +9,6 @@ class Dog
   end
   
   def bark
+    puts @name
+  end
+end
